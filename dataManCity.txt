@@ -1,0 +1,23 @@
+Aguero,CF,90,5
+De Bruyne,AMF,87,4
+Nasri,LMF,82,3
+Jesus Navas,RMF,80,3
+Fernandinho,DMF,77,3
+Yaya Toure,DMF,79,3
+Kolarov,LB,80,5
+E. Mangala,CB,80,3
+Otamendi,CB,85,3
+Zabaleta,RB,83,3
+Joe Hart,GK,84,3
+Caballero,GK,75,2
+Demichelis,CB,76,4
+Kompany,CB,85,3
+Sagna,RB,80,3
+Clichy,LB,80,4
+Fernando,DMF,79,2
+F. Delph,CMF,77,3
+David Silva,AMF,87,3
+Manuel Garcia,AMF,72,2
+Sterling,LWF,82,4
+Bony,CF,80,2
+Iheanacho,CF,76,2
